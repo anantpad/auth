@@ -4,7 +4,17 @@
     "href": "index.html",
     "title": "Authentication and Authorization in Web Applications",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nTechnology can feel like an exclusive club where the entry fee is speaking a dialect of confusing, vendor-specific jargon. If you have ever sat in a high-level IT meeting feeling like an outsider, this book—and this series—is written specifically for you.\nThis series is designed for non-technical and semi-technical professionals who want to stop being intimidated by technology, embrace its power, and confidently aspire to the highest levels of tech leadership, including the role of Chief Technology Officer (CTO).\nMy own journey began in the healthcare domain—a world of intense regulatory compliance, high stakes, and massive operational complexity. While the examples and insights in these pages are deeply informed by the rigorous demands of healthcare, the foundational principles are universal. They apply to any industry where technology moves the needle.\nThere is a dirty secret in the tech world: the best technical leaders aren’t always the ones who can write the fastest code. They are the business experts. When you deeply understand the business, you bring a priceless perspective to IT systems. You become the leader who ensures technology is built for business purpose, not just for technology’s sake. You ensure that organizations build what will actually be adopted, staying cost-effective while ruthlessly catering to real-world business needs.\nTo bridge that gap, this series does not focus on how to build individual software applications. Instead, we are lifting the hood to look at everything surrounding the successful infrastructure and deployment of an application. We will demystify the invisible scaffolding holding the modern digital world together: authentication, authorization, cloud infrastructure, servers, and containers.\nI want this book to be an easy, engaging read that strips away the mystery and leaves you feeling empowered. Technology belongs to those who use it to solve problems—and that includes you.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#about-the-author",
+    "href": "index.html#about-the-author",
+    "title": "Authentication and Authorization in Web Applications",
+    "section": "About the Author",
+    "text": "About the Author\nSridhar",
     "crumbs": [
       "Preface"
     ]
@@ -37,6 +47,16 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the author",
+    "section": "",
+    "text": "The author’s career began inside the walls of healthcare provider organizations, working directly within operational roles. However, recognizing that technology is the engine that drives modern business value, they stepped onto a technical path early on—serving as a bridge between complex clinical workflows and raw data systems.They began their technical evolution as a subject matter expert, stepping into data modeling for advanced analytics and writing complex SQL queries to parse and extract critical clinical transactional data using regular expressions (\\(RegEx\\)). From there, they expanded their engineering toolkit into Python and R programming, building rapid proofs-of-concept to solve real-world problems for clinical users.As their technical career expanded, they transitioned into API programming and scaled into leadership roles, managing cross-functional product and engineering teams.\nToday, they architect and execute large-scale dataset analyses using native Python, while leveraging enterprise cloud ecosystems including Amazon Web Services (AWS) and Databricks.\nHaving personally successfully bridged the gap from a non-technical background to a technical leader, the author writes this series with a singular mission: to strip the intimidation out of tech infrastructure and empower the next generation of business-minded technology leaders.",
+    "crumbs": [
+      "About the author"
     ]
   }
 ]
