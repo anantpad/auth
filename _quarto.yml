@@ -4,8 +4,10 @@ project:
 
 book:
   title: "Authentication and Authorization in Web Applications"
-  author: "Sridhar Ramachandran"
+  author: 
+    name:"Sridhar Ramachandran"
   date: "6/18/2026"
+  description: "A guide to demystify technical subjects using analogy, simplicity and common sense"
   sidebar:
     style: "docked"
     search: true
@@ -14,6 +16,10 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
+    - about.qmd
+  page-footer: 
+    left:"© 2026 Sridhar Ramachandran. All rights reserved."
+    right:"Built with [Quarto](https://quarto.org/)"
 
 bibliography: references.bib
 
